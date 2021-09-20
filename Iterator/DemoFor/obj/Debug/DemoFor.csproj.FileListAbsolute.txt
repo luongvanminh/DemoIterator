@@ -1,0 +1,8 @@
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/bin/Debug/DemoFor.exe
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/bin/Debug/DemoFor.pdb
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.csprojAssemblyReference.cache
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.exe
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.pdb
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/bin/Debug/System.Linq.dll
+/Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.csproj.CopyComplete
