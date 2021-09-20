@@ -1,0 +1,6 @@
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/bin/Debug/DoiTien.exe
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/bin/Debug/DoiTien.pdb
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/obj/Debug/DoiTien.csprojAssemblyReference.cache
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/obj/Debug/DoiTien.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/obj/Debug/DoiTien.exe
+/Users/minhluongvan/Projects/DesignPattern/DoiTien/DoiTien/DoiTien/obj/Debug/DoiTien.pdb
