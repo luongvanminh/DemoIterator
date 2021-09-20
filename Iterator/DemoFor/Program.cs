@@ -15,7 +15,7 @@ namespace DemoFor
         // Retrieve Current Item
         int CurrentItem();
 
-        //void ForRemain(Func<int, int> a);
+        void ForEachItem(Action<int> foo);
     }
 
     public class IntIterator : IIterator
@@ -37,6 +37,16 @@ namespace DemoFor
         public void First()
         {
             position = 0;
+        }
+
+        public void ForEachItem(Action<int> foo)
+        {
+            int i = 0;
+            while (i < IntSubjects.Count)
+            {
+                foo(IntSubjects.ElementAt<int>(i));
+                i++;
+            }
         }
 
         public bool IsCollectionEnds()
@@ -90,6 +100,8 @@ namespace DemoFor
                     Console.Write($"{mIterator} ");
                 intIterator.Next();
             }
+
+            intIterator.ForEachItem(Console.WriteLine);
         }
     }
 }

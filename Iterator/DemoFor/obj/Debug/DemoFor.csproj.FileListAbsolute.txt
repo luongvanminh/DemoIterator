@@ -6,3 +6,11 @@
 /Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.pdb
 /Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/bin/Debug/System.Linq.dll
 /Users/minhluongvan/Projects/DesignPattern/ApplyPattern/DemoFor/DemoFor/DemoFor/obj/Debug/DemoFor.csproj.CopyComplete
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/obj/Debug/DemoFor.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/obj/Debug/DemoFor.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/obj/Debug/DemoFor.exe
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/obj/Debug/DemoFor.pdb
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/bin/Debug/DemoFor.exe
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/bin/Debug/DemoFor.pdb
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/bin/Debug/System.Linq.dll
+/Users/minhluongvan/Workspace/DotNet/DesignPattern/DemoPattern/Iterator/DemoFor/obj/Debug/DemoFor.csproj.CopyComplete
